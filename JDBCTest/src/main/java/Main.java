@@ -1,3 +1,4 @@
+/* JDBC Test with proper input handling*/
 import java.sql.*;
 import java.util.Scanner;
 
