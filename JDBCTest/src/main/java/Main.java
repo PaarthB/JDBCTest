@@ -1,4 +1,4 @@
-/* JDBC Test with proper input handling*/
+/* JDBC Test with proper input handling - PB*/
 import java.sql.*;
 import java.util.Scanner;
 
